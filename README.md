@@ -1,2 +1,3 @@
 # myprojectkevin
 The project of kevin
+To do the redis project, thinking about...
